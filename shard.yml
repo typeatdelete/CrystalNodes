@@ -1,0 +1,13 @@
+name: crystal_nodes
+version: 0.1.0
+
+authors:
+  - your-name-here <lattice.echos@proton.me>
+
+targets:
+  crystal_nodes:
+    main: src/crystal_nodes.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
